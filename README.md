@@ -147,11 +147,4 @@ Customer-Segmentation-Personalized-Marketing-Engine
 - Marketing Campaign ROI Analysis
 - Real-time Dashboard Integration
 
----
-
-## 👩‍💻 Author
-
-**Vasantha Kamalee**
-
-M.Sc. Data Science
 
